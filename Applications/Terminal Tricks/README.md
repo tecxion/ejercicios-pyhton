@@ -1,25 +1,26 @@
- <br />
+<br />
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">
-    <img width="150px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/cmdp.gif" alt="Logo">
+  <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA   ">
+    <img width="150px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/cmdp.gif   " alt="Logo">
   </a>
 
-  <h3 align="center">Terminal Tricks</h3>
+  <h3 align="center">Trucos de Terminal</h3>
 
   <p align="center">
-    Python Application | 10 lines of code + Video Explanation 🧭
+    Aplicación en Python | 10 líneas de código + Explicación en Video 🧭
     <br>
     <br />
   </p>
 </p>
 
-You can play tricks with terminal using `python` program. You'll get 2 codes one will change the text color in terminal and second one will help you to write anything using alphabet | Number | Symbolic structure. 
- ```
-What the program does? 
+Puedes hacer trucos en la terminal usando un programa en `Python`. Obtendrás dos códigos: uno cambiará el color del texto en la terminal y el otro te ayudará a escribir cualquier cosa utilizando estructuras alfabéticas, numéricas o simbólicas.
 
-- You've to choose the color
-- You've to select: alphabet | Number | Symbol style 
-- This is what qxresearch(alphabetic) looks like: 
+ ```
+¿Qué hace el programa?
+
+- Debes elegir el color.
+- Debes seleccionar un estilo: alfabético | Numérico | Simbólico.
+- Esto es cómo se ve "qxresearch" (en estilo alfabético):
                                           h
                                           h
     qqq  x x rrr eee  ss eee  aa rrr  ccc hhh
@@ -28,28 +29,28 @@ What the program does?
       q
       qq
 ``` 
-### Requirements
+### Requisitos
 
 * Python
-* Python Libraries: `pyfiglet` `colorama`
+* Bibliotecas de Python: `pyfiglet` `colorama`
 
-### Contributing
+### Contribuciones
 
-Any kind of contributions to `qxresearch-event-1/terminal-tricks` are welcome. While creating an issue(for this project) use `Terminal-Tricks` Label.
+Cualquier tipo de contribución a `qxresearch-event-1/terminal-tricks` es bienvenida. Al crear un problema (para este proyecto), usa la etiqueta `Terminal-Tricks`.
 
-1. [Fork](https://github.com/qxresearch/qxresearch-event-1/fork) the Project
-2. Commit your Changes
-3. Open a [Pull Request](https://github.com/qxresearch/qxresearch-event-1/pulls)
+1. [Fork](https://github.com/qxresearch/qxresearch-event-1/fork   ) el Proyecto
+2. Confirma tus Cambios
+3. Abre un [Pull Request](https://github.com/qxresearch/qxresearch-event-1/pulls   )
 
-### Video Tutorial
+### Tutorial en Video
 
-* **YouTube : ** [Terminal Tricks](https://youtu.be/sykK0IVAb84)
+* **YouTube :** [Trucos de Terminal](https://youtu.be/sykK0IVAb84   )
 
-### Become Official Member @qxresearch
+### Conviértete en Miembro Oficial @qxresearch
 
-* Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
-* Join Telegram Group [@qxresearch](https://t.me/qxresearch)
-* <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (**subject**: GitHub id @qxresearch)
+* Únete al Grupo de Mozilla [@qxresearch](https://community.mozilla.org/en/groups/qx-research/   )
+* Únete al Grupo de Telegram [@qxresearch](https://t.me/qxresearch   )
+* <a href = "mailto: rohitmandal814566@gmail.com">Envíame</a> tu ID de GitHub (**asunto**: ID de GitHub @qxresearch)
 
 
 <h3 align="center"></h3>
@@ -57,11 +58,11 @@ Any kind of contributions to `qxresearch-event-1/terminal-tricks` are welcome. W
   <p align="center">
     <br>
     <br/>
-    <a href="https://youtu.be/sykK0IVAb84">View Demo</a>
+    <a href="https://youtu.be/sykK0IVAb84   ">Ver Demo</a>
     ·
-    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Report Bug</a>
+    <a href="https://github.com/qxresearch/qxresearch-event-1/issues   ">Reportar Error</a>
     ·
-    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Request Feature</a>
+    <a href="https://github.com/qxresearch/qxresearch-event-1/issues   ">Solicitar Funcionalidad</a>
     <br>
     <br />
   </p>

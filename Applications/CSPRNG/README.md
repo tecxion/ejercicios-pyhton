@@ -8,7 +8,7 @@ Este repositorio contiene varios proyectos relacionados con la generación de n�
 
 ## Carpetas
 
-1. **CSPRNG_1: Datos Climáticos**
+### 1. **CSPRNG_1: Datos Climáticos**
    - Genera números aleatorios basados en datos climáticos obtenidos de la API de OpenWeatherMap.
    - Incluye dos programas:
      - Programa 1: Genera números aleatorios combinando datos climáticos y ruido simulado.
@@ -39,7 +39,7 @@ Bibliotecas: requests, random
 ```
 
 
-2. **CSPRNG_2: Audio**
+### 2. **CSPRNG_2: Audio**
    - Utiliza la biblioteca `pyaudio` para grabar audio y generar números aleatorios.
    - Incluye dos programas:
      - Programa 1: Genera números aleatorios combinando datos de audio y datos climáticos.
@@ -69,7 +69,7 @@ Bibliotecas: pyaudio, wave
 
 ```
 
-3. **CSPRNG_3: Cadenas Aleatorias**
+### 3. **CSPRNG_3: Cadenas Aleatorias**
    - Genera cadenas aleatorias utilizando las bibliotecas `os` y `random`.
   
 ```
@@ -85,7 +85,7 @@ compuestas por letras y dígitos.
 
 ```
 
-4. **CSPRNG_4: Números Aleatorios Seguros**
+### 4. **CSPRNG_4: Números Aleatorios Seguros**
    - Genera números aleatorios utilizando la biblioteca `secrets`, diseñada para aplicaciones criptográficamente seguras.
   
 ```

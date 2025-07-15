@@ -43,7 +43,7 @@ qxresearch AI es un laboratorio de investigación enfocado en Aprendizaje Autom�
 
 `chatGPT`
 
-- ✒️ [email-automation](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/email-automation   ) : Herramienta para automatizar resúmenes de noticias y blogs desde remitentes personalizados (correo)
+- ✒️ [email-automation](https://github.com/tecxion/ChatGPT-Python-Applications/tree/main/email-automation   ) : Herramienta para automatizar resúmenes de noticias y blogs desde remitentes personalizados (correo)
 - ⭐ [custom-chatbot](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/chatbot   ) : Pide al chatbot realizar trabajos personalizados basados en tareas (por ejemplo, redactor de guiones)
 - 📟 [whisper-speech-text](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/whisper-speech-text   ) : Otra API de OpenAI para convertir texto a partir de audio
 - ⚙️ [finetuned-gpt](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/finetuned-gpt   ) : Entrena ChatGPT con tus propios datos y realiza consultas sobre esos datos

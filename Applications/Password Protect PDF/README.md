@@ -15,6 +15,14 @@
 
 Puedes proteger tu archivo PDF con una contraseña personalizada usando `Python` en 10 líneas de código. Necesitas tener tu código fuente en la misma ubicación que tu archivo PDF. En el programa, proporcionarás el nombre del PDF original | Contraseña | Nombre del PDF de salida.
 
+```
+¿Qué hace el programa?
+
+- Se crea una copia del PDF original
+- Lo protege con una contraseña
+- El archivo original se elimina
+```
+
 ### Requisitos
 
 * Python

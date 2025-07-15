@@ -1,9 +1,13 @@
 # REPOSITORIO CON EJERCICIOS DE PYTHON
 
 ### ***Traducción por TecXion***
+
 <br>
+
+
 >[!IMPORTANT]
 >El original está al final del readme.
+
 
 ¡Bienvenido a nuestro repositorio de GitHub que presenta más de 50 aplicaciones en Python con solo 10 líneas de código! En este repositorio, encontrarás una amplia variedad de temas como Aprendizaje Automático (Machine Learning), Aprendizaje Profundo (Deep Learning), Interfaces Gráficas de Usuario (GUI), Visión por Computadora y desarrollo de API. Cada aplicación está diseñada para ser simple y concisa, lo que facilita su comprensión y modificación. Ya seas un principiante o un desarrollador experimentado, ¡estas aplicaciones son perfectas para aprender y experimentar con Python! Así que sumérgete, explora y diviértete.
 

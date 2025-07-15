@@ -1,49 +1,43 @@
- <br />
+<br />
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">
-    <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/ppdf.jpg" alt="Logo">
+  <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA   ">
+    <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/ppdf.jpg   " alt="Logo">
   </a>
 
-  <h3 align="center">Password-Protect-PDF</h3>
+  <h3 align="center">Proteger-PDF-con-Contraseña</h3>
 
   <p align="center">
-    Python Application | 10 lines of code + Video Explanation 🧭
+    Aplicación en Python | 10 líneas de código + Explicación en Video 🧭
     <br>
     <br />
   </p>
 </p>
 
-You can protect your PDF file with a custom password using `Python` in 10 lines of code. You need to have your source-code in the same location of your PDF file. In the program you'll give your source-pdf-name | Password | Output-pdf-name. 
-```
-What the program does? 
+Puedes proteger tu archivo PDF con una contraseña personalizada usando `Python` en 10 líneas de código. Necesitas tener tu código fuente en la misma ubicación que tu archivo PDF. En el programa, proporcionarás el nombre del PDF original | Contraseña | Nombre del PDF de salida.
 
-- A copy of original pdf is created 
-- Protect it with a password 
-- Original file is deleted
-``` 
-### Requirements
+### Requisitos
 
 * Python
-* Python Libraries: `PyPDF2`
+* Bibliotecas de Python: `PyPDF2`
 
-### Contributing
+### Contribuciones
 
-Any kind of contributions to `qxresearch-event-1/password-protect-pdf` are welcome. While creating an issue(for this project) use `Password-Protect-PDF` Label.
+Cualquier tipo de contribución a `qxresearch-event-1/password-protect-pdf` es bienvenida. Al crear un problema (para este proyecto), usa la etiqueta `Password-Protect-PDF`.
 
-1. [Fork](https://github.com/qxresearch/qxresearch-event-1/fork) the Project
-2. Commit your Changes
-3. Open a [Pull Request](https://github.com/qxresearch/qxresearch-event-1/pulls)
+1. [Fork](https://github.com/qxresearch/qxresearch-event-1/fork   ) el Proyecto
+2. Confirma tus Cambios
+3. Abre un [Pull Request](https://github.com/qxresearch/qxresearch-event-1/pulls   )
 
 
-### Video Tutorial
+### Tutorial en Video
 
-* **YouTube :** [**Password Protect PDF**](https://youtu.be/Cxi3R3A7yMQ)
+* **YouTube :** [**Proteger PDF con Contraseña**](https://youtu.be/Cxi3R3A7yMQ   )
 
-### Become Official Member @qxresearch
+### Conviértete en Miembro Oficial @qxresearch
 
-* Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
-* Join Telegram Group [@qxresearch](https://t.me/qxresearch)
-* <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (**subject**: GitHub id @qxresearch)
+* Únete al Grupo de Mozilla [@qxresearch](https://community.mozilla.org/en/groups/qx-research/   )
+* Únete al Grupo de Telegram [@qxresearch](https://t.me/qxresearch   )
+* <a href = "mailto: rohitmandal814566@gmail.com">Envíame</a> tu ID de GitHub (**asunto**: ID de GitHub @qxresearch)
 
 
 <h3 align="center"></h3>
@@ -51,11 +45,11 @@ Any kind of contributions to `qxresearch-event-1/password-protect-pdf` are welco
   <p align="center">
     <br>
     <br/>
-    <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">View Demo</a>
+    <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA   ">Ver Demo</a>
     ·
-    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Report Bug</a>
+    <a href="https://github.com/qxresearch/qxresearch-event-1/issues   ">Reportar Error</a>
     ·
-    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Request Feature</a>
+    <a href="https://github.com/qxresearch/qxresearch-event-1/issues   ">Solicitar Funcionalidad</a>
     <br>
     <br />
   </p>

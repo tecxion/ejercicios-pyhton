@@ -50,7 +50,6 @@ qxresearch AI es un laboratorio de investigación enfocado en Aprendizaje Autom�
 - 💠 [voice-assistant](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/voice-assistant   ) : Asistente de voz basado en ChatGPT y WhisperAPI (entrada y salida de audio)
 - 🐻 [web-scraping-summarizer](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/web-scraping-summarizer   ) : Esta herramienta extrae contenido de un sitio web y resume el contexto principal
 - ⌚ [your-prespective](https://raw.githubusercontent.com/xiaowuc2/ChatGPT-Python-Applications/main/resource/git4.png   ) : Puedes entrenar a ChatGPT para que perciba las cosas como tú lo haces, ¡y te imitará!
-- 📖 [bhagavad-gita-gpt](https://raw.githubusercontent.com/xiaowuc2/ChatGPT-Python-Applications/main/resource/git4.png   ) : Un libro religioso que contiene todas las respuestas para encontrar nuestro propósito y vivirlo plenamente
 - 🏜 [vector-databse](https://github.com/xiaowuc2/ChatGPT-Python-Applications/blob/main/vector-database/Vector_Databse.ipynb   ) : Así es como puedes enviar archivos de texto grandes a ChatGPT y evitar los límites de tokens
 
 ### Setup 
@@ -143,7 +142,7 @@ qxresearch AI is a research lab focused on Machine Learning, Deep Learning, and 
 
 `chatGPT`
 
-- ✒️ [email-automation](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/email-automation) : Tool to automate automate news briefing and blogging from custom senders (mail) 
+- ✒️ [email-automation](https://github.com/tecxion/ChatGPT-Python-Applications/tree/main/email-automation) : Tool to automate automate news briefing and blogging from custom senders (mail) 
 - ⭐ [custom-chatbot](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/chatbot) : ask chatbot to do custom work on the bases of the task (eg. scriptwriter) 
 - 📟 [whisper-speech-text](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/whisper-speech-text) : OpenAI's another API to convert text from audio
 - ⚙️ [finetuned-gpt](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/finetuned-gpt) : Train chatGPT on your custom data & ask queries from that data

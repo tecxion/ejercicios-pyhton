@@ -1,4 +1,70 @@
- <br />
+## REPOSITORIO CON EJERCICIOS DE PYTHON
+
+Traducción por TecXarT
+>[!IMPORTANT]
+>El original está al final del readme.
+
+¡Bienvenido a nuestro repositorio de GitHub que presenta más de 50 aplicaciones en Python con solo 10 líneas de código! En este repositorio, encontrarás una amplia variedad de temas como Aprendizaje Automático (Machine Learning), Aprendizaje Profundo (Deep Learning), Interfaces Gráficas de Usuario (GUI), Visión por Computadora y desarrollo de API. Cada aplicación está diseñada para ser simple y concisa, lo que facilita su comprensión y modificación. Ya seas un principiante o un desarrollador experimentado, ¡estas aplicaciones son perfectas para aprender y experimentar con Python! Así que sumérgete, explora y diviértete.
+
+Además, entendemos que a veces el código puede ser complejo, por lo que hemos creado explicaciones en video para cada proyecto, disponibles en nuestro canal de YouTube. Con estos recursos a tu disposición, puedes obtener rápidamente una comprensión profunda del código y personalizarlo fácilmente según tus necesidades. ¡Suscríbete al canal de YouTube [@qxresearch](https://www.youtube.com/ @qxresearch/) para recibir actualizaciones sobre nuevos proyectos! Esto también te permitirá unirte a una comunidad de entusiastas de Python con ideas afines y mantenerte conectado con un grupo apasionado de estudiantes y expertos.
+
+
+qxresearch AI es un laboratorio de investigación enfocado en Aprendizaje Automático (Machine Learning), Aprendizaje Profundo (Deep Learning) y Visión por Computadora. Nuestro equipo aspira a realizar descubrimientos que tengan un impacto amplio, y en el corazón de nuestro enfoque está la divulgación de nuestros hallazgos en estos campos. Nuestros investigadores publican regularmente en revistas académicas, lanzan proyectos como código abierto en GitHub y aplican estos descubrimientos en aplicaciones prácticas.
+
+### Python Application
+
+📼 [Voice Recorder](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Voice%20Recorder) : Grabadora de voz simple con límite de tiempo personalizable
+* 🔑 [Password Protect PDF](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Password%20Protech%20PDF   ) : Protege un PDF con una contraseña personalizada
+* 🗏 [Merge Multiple PDF](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Merge%20Multiple%20PDF   ) : Combina múltiples PDFs usando scripting en Python
+* 🔔 [Windows Notification](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Windows%20Notification   ) : Creador de notificaciones personalizadas para Windows
+* 🎬 [Audio Visualization Tool](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Audio%20Visualization%20Tool   ) : ¡Una herramienta impresionante para visualizar audio!
+* 📟 [Random Password Generator](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Random%20Password%20Generator   ) : Aplicación generadora de contraseñas seguras y aleatorias
+* 🎶 [Extract mp3 from mp4](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Extract%20mp3%20from%20mp4   ) : Extrae audio de un video mediante análisis
+* 🔗 [Link Shortener and Extractor](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Link%20Shortener%20and%20Extractor   ) : Acortador y extractor de URLs desde la terminal
+* 🔋 [Terminal Tricks](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Terminal%20Tricks   ) : Trucos geniales para la terminal #scripting
+* 🎂 [Birthday Reminder](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Birthday%20Reminder   ) : Recordatorio de cumpleaños para programadores perezosos
+* 📻 [Audiobook](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/audiobook   ) : Creador de audiolibros a partir de archivos de texto
+* ⏰ [Alarm](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Alarm   ) : Alarma amigable para que los programadores descansen
+* ⏱️ [Schedule YouTube Video](https://github.com/xiaowuc2/Schedule-YouTube-video-Python/blob/master/python%20code.py   ) : Script en Python que reproduce un video de YouTube a una hora programada
+* 📆 [Calendar](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Calendar   ) : Aplicación de calendario basada en tkinter (herramienta GUI)
+* ✏️ [Paint](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Paint   ) : Clon interactivo de Paint basado en tkinter (herramienta GUI)
+* 💻 [Screenshot taker](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/ScreenShot   ) : Aplicación para capturar pantallas basada en tkinter con botón clickeable
+* 📖 [Wikipedia Search Engine](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Search%20Engine   ) : Motor de búsqueda basado en tkinter integrado con la API de Wikipedia
+* 🛠️ [Cryptographically Secured Random Number Generator](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/CSPRNG   ) : Construcción de un generador de números aleatorios criptográficamente seguro desde cero
+
+# Aplicaciones de Machine Learning
+
+<br>
+
+`chatGPT`
+
+- ✒️ [email-automation](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/email-automation   ) : Herramienta para automatizar resúmenes de noticias y blogs desde remitentes personalizados (correo)
+- ⭐ [custom-chatbot](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/chatbot   ) : Pide al chatbot realizar trabajos personalizados basados en tareas (por ejemplo, redactor de guiones)
+- 📟 [whisper-speech-text](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/whisper-speech-text   ) : Otra API de OpenAI para convertir texto a partir de audio
+- ⚙️ [finetuned-gpt](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/finetuned-gpt   ) : Entrena ChatGPT con tus propios datos y realiza consultas sobre esos datos
+- 💠 [voice-assistant](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/voice-assistant   ) : Asistente de voz basado en ChatGPT y WhisperAPI (entrada y salida de audio)
+- 🐻 [web-scraping-summarizer](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/web-scraping-summarizer   ) : Esta herramienta extrae contenido de un sitio web y resume el contexto principal
+- ⌚ [your-prespective](https://raw.githubusercontent.com/xiaowuc2/ChatGPT-Python-Applications/main/resource/git4.png   ) : Puedes entrenar a ChatGPT para que perciba las cosas como tú lo haces, ¡y te imitará!
+- 📖 [bhagavad-gita-gpt](https://raw.githubusercontent.com/xiaowuc2/ChatGPT-Python-Applications/main/resource/git4.png   ) : Un libro religioso que contiene todas las respuestas para encontrar nuestro propósito y vivirlo plenamente
+- 🏜 [vector-databse](https://github.com/xiaowuc2/ChatGPT-Python-Applications/blob/main/vector-database/Vector_Databse.ipynb   ) : Así es como puedes enviar archivos de texto grandes a ChatGPT y evitar los límites de tokens
+
+### Setup 
+
+Consulta este [video de configuración](https://youtu.be/beEBeQw5tpc ) para instalar las dependencias y generar las claves de API, e incorporarlas en nuestras aplicaciones. He detallado los pasos en formato de texto a continuación:
+
+- Instala las dependencias siguiendo estos pasos:
+
+  - Dale una estrella a este repositorio (esquina superior derecha).
+  - <>Código > Descargar ZIP > Abre el cmd/terminal en esa ubicación.
+  - Ejecuta este comando: `pip install -r requirements.txt`.
+  - Reemplaza las claves de API en los archivos `yml`.
+
+* La configuración para diferentes proyectos puede no ser la misma. Consulta las guías de configuración individuales proporcionadas para cada proyecto.
+
+
+---
+
+<br />
 <p align="center">
   <a href="https://qxresearch.github.io/qxresearch-event-1">
     <img src="https://github.com/xiaowuc2/ChatGPT-Python-Applications/blob/main/resource/10lines3.gif" alt="Logo">

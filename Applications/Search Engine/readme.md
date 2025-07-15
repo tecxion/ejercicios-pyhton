@@ -1,10 +1,4 @@
-<br />
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA   ">
-    <img width="150px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/wiki.gif   " alt="Logo">
-  </a>
-
-  <h3 align="center">Wikipedia Search</h3>
+ <h3 align="center">Wikipedia Search</h3>
 
   <p align="center">
     Aplicación en Python | 10 líneas de código + Explicación en Video 🧭

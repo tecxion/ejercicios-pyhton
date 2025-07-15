@@ -1,51 +1,51 @@
- <br />
+<br />
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">
-    <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/vo1.png" alt="Logo" width="250" height="250">
+  <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA   ">
+    <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/vo1.png   " alt="Logo" width="250" height="250">
   </a>
 
-  <h3 align="center">Voice-Recorder</h3>
+  <h3 align="center">Grabadora-de-Voz</h3>
 
   <p align="center">
-    Python Application | 10 lines of code + Video Explanation 🧭
+    Aplicación en Python | 10 líneas de código + Explicación en Video 🧭
     <br>
     <br />
   </p>
 </p>
 
-This is a simple voice recorder program, written in `Python` by `@qxresearch org.` User have to set the time-limit and run the program. After that specific time the program will stop and a file will be created with `.wav` extention in the same location of source-code.
-
+Este es un programa simple de grabación de voz, escrito en `Python` por `@qxresearch org.` El usuario debe establecer el límite de tiempo y ejecutar el programa. Después de ese tiempo específico, el programa se detendrá y se creará un archivo con extensión `.wav` en la misma ubicación del código fuente.
 ```
-What the program does? 
+¿Qué hace el programa?
 
-- Your default mic starts recording
-- The recording is saved in the same locatoin of source-code
-- After custorm time the program exits
-``` 
- 
-### Requirements
+Tu micrófono predeterminado comienza a grabar
+La grabación se guarda en la misma ubicación del código fuente
+Después del tiempo personalizado, el programa finaliza
+```
+
+
+### Requisitos
 
 * Python[ >= python3.1]
-* Python Libraries: `sounddevice` `scipy`
-* provide your required `time` in `second` for record during the compilation
+* Bibliotecas de Python: `sounddevice` `scipy`
+* Proporciona el tiempo requerido en `segundos` para la grabación durante la compilación
 
-### Contributing
+### Contribuciones
 
-Any kind of contributions to `qxresearch-event-1/voice-recorder` are welcome. While creating an issue(for this project) use `Voice-Recorder` Label.
+Cualquier tipo de contribución a `qxresearch-event-1/voice-recorder` es bienvenida. Al crear un problema (para este proyecto), usa la etiqueta `Voice-Recorder`.
 
-1. [Fork](https://github.com/qxresearch/qxresearch-event-1/fork) the Project
-2. Commit your Changes
-3. Open a [Pull Request](https://github.com/qxresearch/qxresearch-event-1/pulls)
+1. [Fork](https://github.com/qxresearch/qxresearch-event-1/fork   ) el Proyecto
+2. Confirma tus Cambios
+3. Abre un [Pull Request](https://github.com/qxresearch/qxresearch-event-1/pulls   )
 
-### Video Tutorial
+### Tutorial en Video
 
-* **YouTube :** [Voice Recorder](https://youtu.be/eTtPUk01cGc)
+* **YouTube :** [Grabadora de Voz](https://youtu.be/eTtPUk01cGc   )
 
-### Become Official Member @qxresearch
+### Conviértete en Miembro Oficial @qxresearch
 
-* Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
-* Join Telegram Group [@qxresearch](https://t.me/qxresearch)
-* <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (**subject**: GitHub id @qxresearch)
+* Únete al Grupo de Mozilla [@qxresearch](https://community.mozilla.org/en/groups/qx-research/   )
+* Únete al Grupo de Telegram [@qxresearch](https://t.me/qxresearch   )
+* <a href = "mailto: rohitmandal814566@gmail.com">Envíame</a> tu ID de GitHub (**asunto**: ID de GitHub @qxresearch)
 
 
 <h3 align="center"></h3>
@@ -53,11 +53,11 @@ Any kind of contributions to `qxresearch-event-1/voice-recorder` are welcome. Wh
   <p align="center">
     <br>
     <br/>
-    <a href="https://youtu.be/eTtPUk01cGc">View Demo</a>
+    <a href="https://youtu.be/eTtPUk01cGc   ">Ver Demo</a>
     ·
-    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Report Bug</a>
+    <a href="https://github.com/qxresearch/qxresearch-event-1/issues   ">Reportar Error</a>
     ·
-    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Request Feature</a>
+    <a href="https://github.com/qxresearch/qxresearch-event-1/issues   ">Solicitar Funcionalidad</a>
     <br>
     <br />
   </p>

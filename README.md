@@ -1,6 +1,7 @@
-## REPOSITORIO CON EJERCICIOS DE PYTHON
+# REPOSITORIO CON EJERCICIOS DE PYTHON
 
-Traducción por TecXarT
+### ***Traducción por TecXion***
+<br>
 >[!IMPORTANT]
 >El original está al final del readme.
 
@@ -13,7 +14,7 @@ qxresearch AI es un laboratorio de investigación enfocado en Aprendizaje Autom�
 
 ### Python Application
 
-📼 [Voice Recorder](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Voice%20Recorder) : Grabadora de voz simple con límite de tiempo personalizable
+* 📼 [Voice Recorder](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Voice%20Recorder) : Grabadora de voz simple con límite de tiempo personalizable
 * 🔑 [Password Protect PDF](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Password%20Protech%20PDF   ) : Protege un PDF con una contraseña personalizada
 * 🗏 [Merge Multiple PDF](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Merge%20Multiple%20PDF   ) : Combina múltiples PDFs usando scripting en Python
 * 🔔 [Windows Notification](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Windows%20Notification   ) : Creador de notificaciones personalizadas para Windows
@@ -61,6 +62,9 @@ Consulta este [video de configuración](https://youtu.be/beEBeQw5tpc ) para inst
 
 * La configuración para diferentes proyectos puede no ser la misma. Consulta las guías de configuración individuales proporcionadas para cada proyecto.
 
+---
+
+## Repositorio original
 
 ---
 

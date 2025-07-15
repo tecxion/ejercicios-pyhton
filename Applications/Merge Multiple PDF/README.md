@@ -1,48 +1,48 @@
  <br />
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">
-    <img width="250px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/mpdf.jpg" alt="Logo">
+  <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA   ">
+    <img width="250px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/mpdf.jpg   " alt="Logo">
   </a>
 
-  <h3 align="center">Merge-Multiple-PDF</h3>
+  <h3 align="center">Combinar-Múltiples-PDF</h3>
 
   <p align="center">
-    Python Application | 10 lines of code + Video Explanation 🧭
+    Aplicación en Python | 10 líneas de código + Explicación en Video 🧭
     <br>
     <br />
   </p>
 </p>
 
-You can merge multiple PDF files into on PDF using `Python` in 10 lines of code. You need to have your source-code in the same location of your PDF files. If you run the code all single pdf files will be deleted and a new big pdf file will be created. 
+Puedes combinar múltiples archivos PDF en un solo PDF usando `Python` en 10 líneas de código. Necesitas tener tu código fuente en la misma ubicación que tus archivos PDF. Si ejecutas el código, todos los archivos PDF individuales se eliminarán y se creará un nuevo archivo PDF grande.
 ```
-What the program does? 
+¿Qué hace el programa?
 
-- Prgram finds all files with extention .pdf in the source code folder 
-- Create a new pdf with all pdf files
-- Delete all pdf which are used in the program
-``` 
-### Requirements
+* El programa encuentra todos los archivos con extensión .pdf en la carpeta del código fuente.
+* Crea un nuevo PDF con todos los archivos PDF.
+* Elimina todos los PDF utilizados en el programa.
+```
+### Requisitos
 
 * Python
-* Python Libraries: `PyPDF2` `os`
+* Bibliotecas de Python: `PyPDF2` `os`
 
-### Contributing
+### Contribuciones
 
-Any kind of contributions to `qxresearch-event-1/merge-multiple-pdf` are welcome. While creating an issue(for this project) use `Merge-Multiple-PDF` Label.
+Cualquier tipo de contribución a `qxresearch-event-1/merge-multiple-pdf` es bienvenida. Al crear un problema (para este proyecto), usa la etiqueta `Merge-Multiple-PDF`.
 
-1. [Fork](https://github.com/qxresearch/qxresearch-event-1/fork) the Project
-2. Commit your Changes
-3. Open a [Pull Request](https://github.com/qxresearch/qxresearch-event-1/pulls)
+1. [Fork](https://github.com/qxresearch/qxresearch-event-1/fork   ) el Proyecto
+2. Confirma tus Cambios
+3. Abre un [Pull Request](https://github.com/qxresearch/qxresearch-event-1/pulls   )
 
-### Video Tutorial
+### Tutorial en Video
 
-* **YouTube :** [Merge Multiple PDF](https://youtu.be/Tp1nz2hzsiY)
+* **YouTube :** [Combinar Múltiples PDF](https://youtu.be/Tp1nz2hzsiY   )
 
-### Become Official Member @qxresearch
+### Conviértete en Miembro Oficial @qxresearch
 
-* Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
-* Join Telegram Group [@qxresearch](https://t.me/qxresearch)
-* <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (**subject**: GitHub id @qxresearch)
+* Únete al Grupo de Mozilla [@qxresearch](https://community.mozilla.org/en/groups/qx-research/   )
+* Únete al Grupo de Telegram [@qxresearch](https://t.me/qxresearch   )
+* <a href = "mailto: rohitmandal814566@gmail.com">Envíame</a> tu ID de GitHub (**asunto**: ID de GitHub @qxresearch)
 
 
 <h3 align="center"></h3>
@@ -50,11 +50,11 @@ Any kind of contributions to `qxresearch-event-1/merge-multiple-pdf` are welcome
   <p align="center">
     <br>
     <br/>
-    <a href="https://youtu.be/Tp1nz2hzsiY">View Demo</a>
+    <a href="https://youtu.be/Tp1nz2hzsiY   ">Ver Demo</a>
     ·
-    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Report Bug</a>
+    <a href="https://github.com/qxresearch/qxresearch-event-1/issues   ">Reportar Error</a>
     ·
-    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Request Feature</a>
+    <a href="https://github.com/qxresearch/qxresearch-event-1/issues   ">Solicitar Funcionalidad</a>
     <br>
     <br />
   </p>

@@ -30,12 +30,14 @@ qxresearch AI es un laboratorio de investigación enfocado en Aprendizaje Autom�
 * 🎂 [Birthday Reminder](https://github.com/tecxion/ejercicios-pyhton/tree/master/Applications/Birthday%20Reminder   ) : Recordatorio de cumpleaños para programadores perezosos
 * 📻 [Audiobook](https://github.com/tecxion/ejercicios-pyhton/tree/master/Applications/audiobook   ) : Creador de audiolibros a partir de archivos de texto
 * ⏰ [Alarm](https://github.com/tecxion/ejercicios-pyhton/tree/master/Applications/Alarm   ) : Alarma amigable para que los programadores descansen
-* ⏱️ [Schedule YouTube Video](https://github.com/xiaowuc2/Schedule-YouTube-video-Python/blob/master/python%20code.py   ) : Script en Python que reproduce un video de YouTube a una hora programada
 * 📆 [Calendar](https://github.com/tecxion/ejercicios-pyhton/tree/master/Applications/Calendar   ) : Aplicación de calendario basada en tkinter (herramienta GUI)
 * ✏️ [Paint](https://github.com/tecxion/ejercicios-pyhton/tree/master/Applications/Paint   ) : Clon interactivo de Paint basado en tkinter (herramienta GUI)
 * 💻 [Screenshot taker](https://github.com/tecxion/ejercicios-pyhtonn/tree/master/Applications/ScreenShot   ) : Aplicación para capturar pantallas basada en tkinter con botón clickeable
 * 📖 [Wikipedia Search Engine](https://github.com/tecxion/ejercicios-pyhton/tree/master/Applications/Search%20Engine   ) : Motor de búsqueda basado en tkinter integrado con la API de Wikipedia
 * 🛠️ [Cryptographically Secured Random Number Generator](https://github.com/tecxion/ejercicios-pyhton/tree/master/Applications/CSPRNG   ) : Construcción de un generador de números aleatorios criptográficamente seguro desde cero
+
+<br>Está en el repositorio original<br>
+* ⏱️ [Schedule YouTube Video](https://github.com/xiaowuc2/Schedule-YouTube-video-Python/blob/master/python%20code.py   ) : Script en Python que reproduce un video de YouTube a una hora programada
 
 # Aplicaciones de Machine Learning
 

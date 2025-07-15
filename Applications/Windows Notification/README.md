@@ -1,48 +1,49 @@
  <br />
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">
-    <img width="250px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/noti.gif" alt="Logo">
+  <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA   ">
+    <img width="250px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/noti.gif   " alt="Logo">
   </a>
 
-  <h3 align="center">Windows-Notification</h3>
+  <h3 align="center">Notificación-Windows</h3>
 
   <p align="center">
-    Python Application | 10 lines of code + Video Explanation 🧭
+    Aplicación en Python | 10 líneas de código + Explicación en Video 🧭
     <br>
     <br />
   </p>
 </p>
 
-You can create a custom windows notificatoin and timer notification using `Python` in 10 lines of code. You can create custom name | custom label | custon notification icon | set time limit and you've your custom notificatoin for your app. 🎉
-```
-What the program does? 
+Puedes crear una notificación personalizada de Windows y una notificación con temporizador usando `Python` en 10 líneas de código. Puedes crear un nombre personalizado, etiqueta personalizada, ícono de notificación personalizado, establecer un límite de tiempo y tendrás tu propia notificación personalizada para tu aplicación. 🎉
 
-- You give custon heading | sub heading | icon | duration
-- You set a notification time or hourly reminder
-- Output displays an actual notification on your computer rather than on terminal screen
-``` 
-### Requirements
+```
+¿Qué hace el programa?
+
+* Proporcionas un título personalizado | subtítulo | ícono | duración.
+* Configuras un tiempo de notificación o un recordatorio por hora.
+* La salida muestra una notificación real en tu computadora en lugar de en la pantalla de la terminal.
+```
+### Requisitos
 
 * Python
-* Python Libraries: `win10toast` `time`
+* Bibliotecas de Python: `win10toast` `time`
 
-### Contributing
+### Contribuciones
 
-Any kind of contributions to `qxresearch-event-1/windows-notification` are welcome. While creating an issue(for this project) use `Windows-Notification` Label.
+Cualquier tipo de contribución a `qxresearch-event-1/windows-notification` es bienvenida. Al crear un problema (para este proyecto), usa la etiqueta `Windows-Notification`.
 
-1. [Fork](https://github.com/qxresearch/qxresearch-event-1/fork) the Project
-2. Commit your Changes
-3. Open a [Pull Request](https://github.com/qxresearch/qxresearch-event-1/pulls)
+1. [Fork](https://github.com/qxresearch/qxresearch-event-1/fork   ) el Proyecto
+2. Confirma tus Cambios
+3. Abre un [Pull Request](https://github.com/qxresearch/qxresearch-event-1/pulls   )
 
-### Video Tutorial
+### Tutorial en Video
 
-* YouTube : [Windows Notificatoin](https://youtu.be/ReUE47SgIuY)
+* YouTube : [Notificación-Windows](https://youtu.be/ReUE47SgIuY   )
 
-### Become Official Member @qxresearch
+### Conviértete en Miembro Oficial @qxresearch
 
-* Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
-* Join Telegram Group [@qxresearch](https://t.me/qxresearch)
-* <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (**subject**: GitHub id @qxresearch)
+* Únete al Grupo de Mozilla [@qxresearch](https://community.mozilla.org/en/groups/qx-research/   )
+* Únete al Grupo de Telegram [@qxresearch](https://t.me/qxresearch   )
+* <a href = "mailto: rohitmandal814566@gmail.com">Envíame</a> tu ID de GitHub (**asunto**: ID de GitHub @qxresearch)
 
 
 <h3 align="center"></h3>
@@ -50,11 +51,11 @@ Any kind of contributions to `qxresearch-event-1/windows-notification` are welco
   <p align="center">
     <br>
     <br/>
-    <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">View Demo</a>
+    <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA   ">Ver Demo</a>
     ·
-    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Report Bug</a>
+    <a href="https://github.com/qxresearch/qxresearch-event-1/issues   ">Reportar Error</a>
     ·
-    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Request Feature</a>
+    <a href="https://github.com/qxresearch/qxresearch-event-1/issues   ">Solicitar Funcionalidad</a>
     <br>
     <br />
   </p>

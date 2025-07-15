@@ -16,11 +16,13 @@ Este repositorio contiene varios proyectos relacionados con la generación de n�
 ```
 Datos Climáticos
 
-Esta carpeta contiene dos programas que utilizan la API de OpenWeatherMap para obtener datos climáticos y generar números aleatorios.
+Esta carpeta contiene dos programas que utilizan la API de OpenWeatherMap
+para obtener datos climáticos y generar números aleatorios.
 
 ## Programa 1: Generación de Números Aleatorios con Ruido Simulado
 
-Este programa obtiene datos climáticos de una ciudad seleccionada al azar y utiliza un modelo de ruido simulado del ventilador de la CPU para generar números aleatorios.
+Este programa obtiene datos climáticos de una ciudad seleccionada al azar y utiliza
+un modelo de ruido simulado del ventilador de la CPU para generar números aleatorios.
 
 Requisitos
 
@@ -45,11 +47,13 @@ Bibliotecas: requests, random
     
 ```
 
-Esta carpeta contiene dos programas que utilizan la biblioteca `pyaudio` para trabajar con audio.
+Esta carpeta contiene dos programas que utilizan la biblioteca `pyaudio` para
+trabajar con audio.
 
 - Programa 1: Generación de Números Aleatorios con Audio
 
-Este programa graba audio, procesa los datos de amplitud y genera números aleatorios combinados con datos climáticos obtenidos de la API de OpenWeatherMap.
+Este programa graba audio, procesa los datos de amplitud y genera números
+aleatorios combinados con datos climáticos obtenidos de la API de OpenWeatherMap.
 
 * Requisitos
 
@@ -71,7 +75,8 @@ Bibliotecas: pyaudio, wave
 ```
 ## Funcionalidad
 
-El programa genera una lista de 10 cadenas aleatorias de longitud 10, compuestas por letras y dígitos.
+El programa genera una lista de 10 cadenas aleatorias de longitud 10,
+compuestas por letras y dígitos.
 
 ### Requisitos
 

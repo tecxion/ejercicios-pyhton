@@ -18,24 +18,24 @@ qxresearch AI es un laboratorio de investigación enfocado en Aprendizaje Autom�
 
 ### Python Application
 
-* 📼 [Voice Recorder](https://github.com/tecxion/qxresearch-pyhton/blob/master/Applications/Voice%20Recorder/README.md) : Grabadora de voz simple con límite de tiempo personalizable
-* 🔑 [Password Protect PDF](https://github.com/tecxion/qxresearch-pyhton/tree/master/Applications/Password%20Protect%20PDF) : Protege un PDF con una contraseña personalizada
-* 🗏 [Merge Multiple PDF](https://github.com/tecxion/qxresearch-pyhton/tree/master/Applications/Merge%20Multiple%20PDF   ) : Combina múltiples PDFs usando scripting en Python
-* 🔔 [Windows Notification](https://github.com/tecxion/qxresearch-pyhton/tree/master/Applications/Windows%20Notification   ) : Creador de notificaciones personalizadas para Windows
-* 🎬 [Audio Visualization Tool](https://github.com/tecxion/qxresearch-pyhton/tree/master/Applications/Audio%20Visualization%20Tool   ) : ¡Una herramienta impresionante para visualizar audio!
-* 📟 [Random Password Generator](https://github.com/tecxion/qxresearch-pyhton/tree/master/Applications/Random%20Password%20Generator   ) : Aplicación generadora de contraseñas seguras y aleatorias
-* 🎶 [Extract mp3 from mp4](https://github.com/tecxion/qxresearch-pyhton/tree/master/Applications/Extract%20mp3%20from%20mp4   ) : Extrae audio de un video mediante análisis
-* 🔗 [Link Shortener and Extractor](https://github.com/tecxion/qxresearch-pyhton/tree/master/Applications/Link%20Shortener%20and%20Extractor   ) : Acortador y extractor de URLs desde la terminal
-* 🔋 [Terminal Tricks](https://github.com/tecxion/qxresearch-pyhton/tree/master/Applications/Terminal%20Tricks   ) : Trucos geniales para la terminal #scripting
-* 🎂 [Birthday Reminder](https://github.com/tecxion/qxresearch-pyhton/tree/master/Applications/Birthday%20Reminder   ) : Recordatorio de cumpleaños para programadores perezosos
-* 📻 [Audiobook](https://github.com/tecxion/qxresearch-pyhton/tree/master/Applications/audiobook   ) : Creador de audiolibros a partir de archivos de texto
-* ⏰ [Alarm](https://github.com/tecxion/qxresearch-pyhton/tree/master/Applications/Alarm   ) : Alarma amigable para que los programadores descansen
+* 📼 [Voice Recorder](https://github.com/tecxion/ejercicios-pyhton/blob/master/Applications/Voice%20Recorder/README.md) : Grabadora de voz simple con límite de tiempo personalizable
+* 🔑 [Password Protect PDF](https://github.com/tecxion/ejercicios-pyhton/tree/master/Applications/Password%20Protect%20PDF) : Protege un PDF con una contraseña personalizada
+* 🗏 [Merge Multiple PDF](https://github.com/tecxion/ejercicios-pyhton/tree/master/Applications/Merge%20Multiple%20PDF   ) : Combina múltiples PDFs usando scripting en Python
+* 🔔 [Windows Notification](https://github.com/tecxion/ejercicios-pyhton/tree/master/Applications/Windows%20Notification   ) : Creador de notificaciones personalizadas para Windows
+* 🎬 [Audio Visualization Tool](https://github.com/tecxion/ejercicios-pyhton/tree/master/Applications/Audio%20Visualization%20Tool   ) : ¡Una herramienta impresionante para visualizar audio!
+* 📟 [Random Password Generator](https://github.com/tecxion/ejercicios-pyhton/tree/master/Applications/Random%20Password%20Generator   ) : Aplicación generadora de contraseñas seguras y aleatorias
+* 🎶 [Extract mp3 from mp4](https://github.com/tecxion/ejercicios-pyhton/tree/master/Applications/Extract%20mp3%20from%20mp4   ) : Extrae audio de un video mediante análisis
+* 🔗 [Link Shortener and Extractor](https://github.com/tecxion/ejercicios-pyhton/tree/master/Applications/Link%20Shortener%20and%20Extractor   ) : Acortador y extractor de URLs desde la terminal
+* 🔋 [Terminal Tricks](https://github.com/tecxion/ejercicios-pyhton/tree/master/Applications/Terminal%20Tricks   ) : Trucos geniales para la terminal #scripting
+* 🎂 [Birthday Reminder](https://github.com/tecxion/ejercicios-pyhton/tree/master/Applications/Birthday%20Reminder   ) : Recordatorio de cumpleaños para programadores perezosos
+* 📻 [Audiobook](https://github.com/tecxion/ejercicios-pyhton/tree/master/Applications/audiobook   ) : Creador de audiolibros a partir de archivos de texto
+* ⏰ [Alarm](https://github.com/tecxion/ejercicios-pyhton/tree/master/Applications/Alarm   ) : Alarma amigable para que los programadores descansen
 * ⏱️ [Schedule YouTube Video](https://github.com/xiaowuc2/Schedule-YouTube-video-Python/blob/master/python%20code.py   ) : Script en Python que reproduce un video de YouTube a una hora programada
-* 📆 [Calendar](https://github.com/tecxion/qxresearch-pyhton/tree/master/Applications/Calendar   ) : Aplicación de calendario basada en tkinter (herramienta GUI)
-* ✏️ [Paint](https://github.com/tecxion/qxresearch-pyhton/tree/master/Applications/Paint   ) : Clon interactivo de Paint basado en tkinter (herramienta GUI)
-* 💻 [Screenshot taker](https://github.com/tecxion/qxresearch-pyhton/tree/master/Applications/ScreenShot   ) : Aplicación para capturar pantallas basada en tkinter con botón clickeable
-* 📖 [Wikipedia Search Engine](https://github.com/tecxion/qxresearch-pyhton/tree/master/Applications/Search%20Engine   ) : Motor de búsqueda basado en tkinter integrado con la API de Wikipedia
-* 🛠️ [Cryptographically Secured Random Number Generator](https://github.com/tecxion/qxresearch-pyhton/tree/master/Applications/CSPRNG   ) : Construcción de un generador de números aleatorios criptográficamente seguro desde cero
+* 📆 [Calendar](https://github.com/tecxion/ejercicios-pyhton/tree/master/Applications/Calendar   ) : Aplicación de calendario basada en tkinter (herramienta GUI)
+* ✏️ [Paint](https://github.com/tecxion/ejercicios-pyhton/tree/master/Applications/Paint   ) : Clon interactivo de Paint basado en tkinter (herramienta GUI)
+* 💻 [Screenshot taker](https://github.com/tecxion/ejercicios-pyhtonn/tree/master/Applications/ScreenShot   ) : Aplicación para capturar pantallas basada en tkinter con botón clickeable
+* 📖 [Wikipedia Search Engine](https://github.com/tecxion/ejercicios-pyhton/tree/master/Applications/Search%20Engine   ) : Motor de búsqueda basado en tkinter integrado con la API de Wikipedia
+* 🛠️ [Cryptographically Secured Random Number Generator](https://github.com/tecxion/ejercicios-pyhton/tree/master/Applications/CSPRNG   ) : Construcción de un generador de números aleatorios criptográficamente seguro desde cero
 
 # Aplicaciones de Machine Learning
 

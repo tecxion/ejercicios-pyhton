@@ -4,51 +4,54 @@
     <img width="200px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/lin.gif" alt="Logo">
   </a>
 
-  <h3 align="center">Link Shortener and Link Extractor</h3>
+  <h3 align="center">Acortador y Extractor de Enlaces</h3>
 
   <p align="center">
-    Python Application | 10 lines of code + Video Explanation 🧭
+    Aplicación Python | 10 líneas de código + Explicación en Video 🧭
     <br>
     <br />
   </p>
 </p>
 
-You can create a `Python` program which can be used to shorten a big link and also to extract original link from a shortened link. For shortening the link, we'll use a shortening web service named `tinyurl`. You need to give your link in the terminal and you'll get the shortened link/ original link in the print-screen.
- ```
-What the program does? 
+Puedes crear un programa en `Python` que sirva para acortar enlaces largos y también para extraer el enlace original desde un enlace acortado. Para acortar los enlaces, usaremos el servicio web `tinyurl`. Solo necesitas introducir tu enlace en la terminal y obtendrás el enlace acortado/original en la pantalla.
 
-1. Shortening Links
-- You have to give your big link in the terminal
-- Program will use tinyurl server for shortening the link without using any browser
-- Shortened link will pass by print() function
+```
+¿Qué hace el programa?
 
-2. Extracting Original Links
-- You have to give a shortened link in the terminal
-- Program will extract the original URL from the shortened link
-- Original link will pass by print() function
-``` 
-### Requirements
+- Acortar Enlaces
+ - Introduce tu enlace largo en la terminal
+ - El programa usará el servidor tinyurl para acortar el enlace sin usar navegador
+ - El enlace acortado se mostrará mediante la función print()
+- Extraer Enlaces Originales
+ - Introduce un enlace acortado en la terminal
+ - El programa extraerá la URL original del enlace acortado
+ - El enlace original se mostrará mediante la función print()
+
+```
+
+
+### Requisitos
 
 * Python
-* Python Libraries: `pyshorteners`, `urllib3`, `requests`
+* Librerías de Python: `pyshorteners`, `urllib3`, `requests`
 
-### Contributing
+### Contribuciones
 
-Any kind of contributions to `qxresearch-event-1/link-shortener` are welcome. While creating an issue(for this project) use `Link-Shortener` Label.
+Todo tipo de contribuciones a `qxresearch-event-1/link-shortener` son bienvenidas. Al crear un issue (para este proyecto) usa la etiqueta `Acortador-Enlaces`.
 
-1. [Fork](https://github.com/qxresearch/qxresearch-event-1/fork) the Project
-2. Commit your Changes
-3. Open a [Pull Request](https://github.com/qxresearch/qxresearch-event-1/pulls)
+1. Haz un [Fork](https://github.com/qxresearch/qxresearch-event-1/fork) del Proyecto
+2. Realiza tus cambios
+3. Abre un [Pull Request](https://github.com/qxresearch/qxresearch-event-1/pulls)
 
 ### Video Tutorial
 
-* **YouTube : ** [Link Shortener](https://youtu.be/JOx_c7ehwKI)
+* **YouTube : ** [Acortador de Enlaces](https://youtu.be/JOx_c7ehwKI)
 
-### Become Official Member @qxresearch
+### Conviértete en Miembro Oficial @qxresearch
 
-* Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
-* Join Telegram Group [@qxresearch](https://t.me/qxresearch)
-* <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (**subject**: GitHub id @qxresearch)
+* Únete al Grupo Mozilla [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
+* Únete al Grupo de Telegram [@qxresearch](https://t.me/qxresearch)
+* <a href = "mailto: rohitmandal814566@gmail.com">Envíame</a> tu id de GitHub (**asunto**: GitHub id @qxresearch)
 
 
 <h3 align="center"></h3>
@@ -56,11 +59,11 @@ Any kind of contributions to `qxresearch-event-1/link-shortener` are welcome. Wh
   <p align="center">
     <br>
     <br/>
-    <a href="https://youtu.be/JOx_c7ehwKI">View Demo</a>
+    <a href="https://youtu.be/JOx_c7ehwKI">Ver Demo</a>
     ·
-    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Report Bug</a>
+    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Reportar Error</a>
     ·
-    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Request Feature</a>
+    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Solicitar Función</a>
     <br>
     <br />
   </p>

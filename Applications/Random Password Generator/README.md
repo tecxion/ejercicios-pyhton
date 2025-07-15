@@ -1,49 +1,49 @@
  <br />
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">
-    <img width="200px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/complex.gif" alt="Logo">
+  <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA   ">
+    <img width="450px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/gk.gif   " alt="Logo">
   </a>
 
-  <h3 align="center">Random-Password-Generator</h3>
+  <h3 align="center">Herramienta-de-Visualización-de-Audio</h3>
 
   <p align="center">
-    Python Application | 10 lines of code + Video Explanation 🧭
+    Aplicación en Python | 10 líneas de código + Explicación en Video 🧭
     <br>
     <br />
   </p>
 </p>
 
-You can create your personal random password generator tool using `Python`. In this project we will use a GUI(Graphical User Interface) tool named `tkinter` to create a window to get a cool software like feel into it.
+Puedes crear una herramienta de visualización de audio en tiempo real utilizando `Python`. En este proyecto, usaremos una herramienta GUI (Interfaz Gráfica de Usuario) llamada `tkinter` para crear una ventana donde se mostrarán gráficos/plots de visualización de audio.
 ```
-What the program does? 
+¿Qué hace el programa?
 
-- You need to select some parameters: ascii_letters | Punctuation | digits | alpha | symbol | number 
-- A random password will be generated using random() function
-- A new window and button will be created
-- As you click the button, a password will be generated and display on the screen
-``` 
-### Requirements
+* Usa tu micrófono predeterminado para tomar la voz como entrada.
+* Crea una ventana y muestra un gráfico para medir la tasa de fotogramas.
+* Toma datos binarios > los convierte a enteros > crea un array de numpy > lo desplaza por 127 y 128.
+* Finalmente, actualiza el lienzo de la figura y muestra el gráfico final.
+```
+### Requisitos
 
 * Python
-* Python Libraries: `random` `tkinter` `string`
+* Bibliotecas de Python: `pyaudio` `os` `struct` `numpy` `matplotlib.pyplot` `time` `tkinter`
 
-### Contributing
+### Contribuciones
 
-Any kind of contributions to `qxresearch-event-1/windows-notification` are welcome. While creating an issue(for this project) use `Random-Password-Generator` Label.
+Cualquier tipo de contribución a `qxresearch-event-1/audio-visualization-tool` es bienvenida. Al crear un problema (para este proyecto), usa la etiqueta `Audio-Visualization-Tool`.
 
-1. [Fork](https://github.com/qxresearch/qxresearch-event-1/fork) the Project
-2. Commit your Changes
-3. Open a [Pull Request](https://github.com/qxresearch/qxresearch-event-1/pulls)
+1. [Fork](https://github.com/qxresearch/qxresearch-event-1/fork   ) el Proyecto
+2. Confirma tus Cambios
+3. Abre un [Pull Request](https://github.com/qxresearch/qxresearch-event-1/pulls   )
 
-### Video Tutorial
+### Tutorial en Video
 
-* YouTube : [Random Password Generator](https://youtu.be/lihcQHcrMD8)
+* **YouTube :** [Herramienta de Visualización de Audio](https://youtu.be/0_wde7Db48E   )
 
-### Become Official Member @qxresearch
+### Conviértete en Miembro Oficial @qxresearch
 
-* Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
-* Join Telegram Group [@qxresearch](https://t.me/qxresearch)
-* <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (**subject**: GitHub id @qxresearch)
+* Únete al Grupo de Mozilla [@qxresearch](https://community.mozilla.org/en/groups/qx-research/   )
+* Únete al Grupo de Telegram [@qxresearch](https://t.me/qxresearch   )
+* <a href = "mailto: rohitmandal814566@gmail.com">Envíame</a> tu ID de GitHub (**asunto**: ID de GitHub @qxresearch)
 
 
 <h3 align="center"></h3>
@@ -51,11 +51,11 @@ Any kind of contributions to `qxresearch-event-1/windows-notification` are welco
   <p align="center">
     <br>
     <br/>
-    <a href="https://youtu.be/lihcQHcrMD8">View Demo</a>
+    <a href="https://youtu.be/0_wde7Db48E   ">Ver Demo</a>
     ·
-    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Report Bug</a>
+    <a href="https://github.com/qxresearch/qxresearch-event-1/issues   ">Reportar Error</a>
     ·
-    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Request Feature</a>
+    <a href="https://github.com/qxresearch/qxresearch-event-1/issues   ">Solicitar Funcionalidad</a>
     <br>
     <br />
   </p>

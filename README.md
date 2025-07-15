@@ -44,13 +44,12 @@ qxresearch AI es un laboratorio de investigación enfocado en Aprendizaje Autom�
 `chatGPT`
 
 - ✒️ [email-automation](https://github.com/tecxion/ChatGPT-Python-Applications/tree/main/email-automation   ) : Herramienta para automatizar resúmenes de noticias y blogs desde remitentes personalizados (correo)
-- ⭐ [custom-chatbot](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/chatbot   ) : Pide al chatbot realizar trabajos personalizados basados en tareas (por ejemplo, redactor de guiones)
-- 📟 [whisper-speech-text](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/whisper-speech-text   ) : Otra API de OpenAI para convertir texto a partir de audio
-- ⚙️ [finetuned-gpt](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/finetuned-gpt   ) : Entrena ChatGPT con tus propios datos y realiza consultas sobre esos datos
-- 💠 [voice-assistant](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/voice-assistant   ) : Asistente de voz basado en ChatGPT y WhisperAPI (entrada y salida de audio)
-- 🐻 [web-scraping-summarizer](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/web-scraping-summarizer   ) : Esta herramienta extrae contenido de un sitio web y resume el contexto principal
-- ⌚ [your-prespective](https://raw.githubusercontent.com/xiaowuc2/ChatGPT-Python-Applications/main/resource/git4.png   ) : Puedes entrenar a ChatGPT para que perciba las cosas como tú lo haces, ¡y te imitará!
-- 🏜 [vector-databse](https://github.com/xiaowuc2/ChatGPT-Python-Applications/blob/main/vector-database/Vector_Databse.ipynb   ) : Así es como puedes enviar archivos de texto grandes a ChatGPT y evitar los límites de tokens
+- ⭐ [custom-chatbot](https://github.com/tecxion/ChatGPT-Python-Applications/tree/main/chatbot   ) : Pide al chatbot realizar trabajos personalizados basados en tareas (por ejemplo, redactor de guiones)
+- 📟 [whisper-speech-text](https://github.com/tecxion/ChatGPT-Python-Applications/tree/main/whisper-speech-text   ) : Otra API de OpenAI para convertir texto a partir de audio
+- ⚙️ [finetuned-gpt](https://github.com/tecxion/ChatGPT-Python-Applications/tree/main/finetuned-gpt   ) : Entrena ChatGPT con tus propios datos y realiza consultas sobre esos datos
+- 💠 [voice-assistant](https://github.com/tecxion/ChatGPT-Python-Applications/tree/main/voice-assistant   ) : Asistente de voz basado en ChatGPT y WhisperAPI (entrada y salida de audio)
+- 🐻 [web-scraping-summarizer](https://github.com/tecxion/ChatGPT-Python-Applications/tree/main/web-scraping-summarizer   ) : Esta herramienta extrae contenido de un sitio web y resume el contexto principal
+- 🏜 [vector-databse](https://github.com/tecxion/ChatGPT-Python-Applications/blob/main/vector-database/Vector_Databse.ipynb   ) : Así es como puedes enviar archivos de texto grandes a ChatGPT y evitar los límites de tokens
 
 ### Setup 
 

@@ -1,49 +1,52 @@
  <br />
 <p align="center">
   <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">
-    <img width="450px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/gk.gif" alt="Logo">
+    <img width="200px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/qxr/complex.gif" alt="Logo">
   </a>
 
-  <h3 align="center">Audio-Visualization-Tool</h3>
+  <h3 align="center">Generador de Contraseñas Aleatorias</h3>
 
   <p align="center">
-    Python Application | 10 lines of code + Video Explanation 🧭
+    Aplicación Python | 10 líneas de código + Explicación en Video 🧭
     <br>
     <br />
   </p>
 </p>
 
-You can create a real-time audio visualization tool using `Python`. In this project we will use a GUI(Graphical User Interface) tool named `tkinter` to create a window to plot grapth / audio visualizer plots.
-```
-What the program does? 
+Puedes crear tu propia herramienta generadora de contraseñas aleatorias usando `Python`. En este proyecto utilizaremos una herramienta GUI (Interfaz Gráfica de Usuario) llamada `tkinter` para crear una ventana que le dé una sensación similar a un software profesional.
 
-- It uses your default mic to take voice as input
-- Creates a window and show plot for measuring frame rate
-- Takes Binary data > convert to integers > make up np array > offset it by 127 and 128
-- Finlly update the girure canvas and show the final graph
-``` 
-### Requirements
+```
+¿Qué hace el programa?
+
+- Debes seleccionar algunos parámetros: letras_ascii | signos de puntuación | dígitos | alfanumérico | símbolos | números
+- Se generará una contraseña aleatoria usando la función random()
+- Se creará una nueva ventana con un botón
+- Al hacer clic en el botón, se generará y mostrará una contraseña en pantalla
+```
+
+
+### Requisitos
 
 * Python
-* Python Libraries: `pyaudio` `os` `struct` `numpy` `matplotlib.pyplot` `time` `tkinter`
+* Librerías de Python: `random` `tkinter` `string`
 
-### Contributing
+### Contribuciones
 
-Any kind of contributions to `qxresearch-event-1/audio-visualization-tool` are welcome. While creating an issue(for this project) use `Audio-Visualization-Tool` Label.
+Todo tipo de contribuciones a `qxresearch-event-1/windows-notification` son bienvenidas. Al crear un issue (para este proyecto) usa la etiqueta `Generador-Contraseñas-Aleatorias`.
 
-1. [Fork](https://github.com/qxresearch/qxresearch-event-1/fork) the Project
-2. Commit your Changes
-3. Open a [Pull Request](https://github.com/qxresearch/qxresearch-event-1/pulls)
+1. Haz un [Fork](https://github.com/qxresearch/qxresearch-event-1/fork) del Proyecto
+2. Realiza tus cambios
+3. Abre un [Pull Request](https://github.com/qxresearch/qxresearch-event-1/pulls)
 
 ### Video Tutorial
 
-* **YouTube :** [Audio Visualization Tool](https://youtu.be/0_wde7Db48E)
+* YouTube : [Generador de Contraseñas Aleatorias](https://youtu.be/lihcQHcrMD8)
 
-### Become Official Member @qxresearch
+### Conviértete en Miembro Oficial @qxresearch
 
-* Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
-* Join Telegram Group [@qxresearch](https://t.me/qxresearch)
-* <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (**subject**: GitHub id @qxresearch)
+* Únete al Grupo Mozilla [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
+* Únete al Grupo de Telegram [@qxresearch](https://t.me/qxresearch)
+* <a href = "mailto: rohitmandal814566@gmail.com">Envíame</a> tu id de GitHub (**asunto**: GitHub id @qxresearch)
 
 
 <h3 align="center"></h3>
@@ -51,11 +54,11 @@ Any kind of contributions to `qxresearch-event-1/audio-visualization-tool` are w
   <p align="center">
     <br>
     <br/>
-    <a href="https://youtu.be/0_wde7Db48E">View Demo</a>
+    <a href="https://youtu.be/lihcQHcrMD8">Ver Demo</a>
     ·
-    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Report Bug</a>
+    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Reportar Error</a>
     ·
-    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Request Feature</a>
+    <a href="https://github.com/qxresearch/qxresearch-event-1/issues">Solicitar Función</a>
     <br>
     <br />
   </p>

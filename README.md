@@ -32,7 +32,7 @@ qxresearch AI es un laboratorio de investigación enfocado en Aprendizaje Autom�
 * ⏰ [Alarm](https://github.com/tecxion/ejercicios-pyhton/tree/master/Applications/Alarm   ) : Alarma amigable para que los programadores descansen
 * 📆 [Calendar](https://github.com/tecxion/ejercicios-pyhton/tree/master/Applications/Calendar   ) : Aplicación de calendario basada en tkinter (herramienta GUI)
 * ✏️ [Paint](https://github.com/tecxion/ejercicios-pyhton/tree/master/Applications/Paint   ) : Clon interactivo de Paint basado en tkinter (herramienta GUI)
-* 💻 [Screenshot taker](https://github.com/tecxion/ejercicios-pyhtonn/tree/master/Applications/ScreenShot   ) : Aplicación para capturar pantallas basada en tkinter con botón clickeable
+* 💻 [Screenshot taker](https://github.com/tecxion/ejercicios-pyhton/tree/master/Applications/ScreenShot   ) : Aplicación para capturar pantallas basada en tkinter con botón clickeable
 * 📖 [Wikipedia Search Engine](https://github.com/tecxion/ejercicios-pyhton/tree/master/Applications/Search%20Engine   ) : Motor de búsqueda basado en tkinter integrado con la API de Wikipedia
 * 🛠️ [Cryptographically Secured Random Number Generator](https://github.com/tecxion/ejercicios-pyhton/tree/master/Applications/CSPRNG   ) : Construcción de un generador de números aleatorios criptográficamente seguro desde cero
 
